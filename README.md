@@ -1,3 +1,3 @@
-# Repositório de exercicios da trybe 
+# Meu repositório de exercícios
 
-Este repositorio contiene todos los ejercicios que realicé estudiando en la Trybe.
+Este repositorio contiene todos los ejercicios que realicé en la Trybe.
