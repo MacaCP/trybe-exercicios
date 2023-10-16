@@ -1,0 +1,30 @@
+
+h1 {
+    font-family: sans-serif;
+    color:chocolate;
+    text-align: center;
+}
+
+h3 {
+    color:rgb(97, 46, 10);
+    text-align: center;
+}
+
+p {
+    font-weight: 50;
+    font-style: inherit;
+    line-height: 25px;
+    color:coral;
+    text-align: left;
+}
+
+body {
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    font-family:Lucida Sans;
+}
+
+ul {
+    color:rgb(97, 46, 10);
+    line-height: 30px;
+}
