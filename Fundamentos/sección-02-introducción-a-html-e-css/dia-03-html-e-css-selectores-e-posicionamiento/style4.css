@@ -1,0 +1,57 @@
+div:hover {
+    border-style: solid;
+    opacity: 0.8;
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+h3 {
+    margin: 5px;
+}
+
+div:active {
+    color:white;
+}
+
+.bg-purple {
+background-color:rgb(168, 75, 168);
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-lightblue {
+    background-color: lightblue;
+}
+
+.bg-aquamarine {
+    background-color: aquamarine;
+}
+
+div {
+    border-radius: 10px;
+}
+
+h3, h1, p {
+    font-family: Sans-serif;
+}
+
+
+
+.italic1, {
+    font-style: italic;
+}
+
+.italic2 {
+    font-style: italic;
+}
+
+.italic3 {
+    font-style: italic;
+}
